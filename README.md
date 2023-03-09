@@ -15,6 +15,11 @@
 <h3>Project Summary</h3>
 The main benefits of refactoring this website is improved maintainability, scalability, and performance. By improving the quality of the code, this website will be easier to maintain in the future, which will save time and money. Additionally, by optimizing the code, the website will load faster and provide a better user experience for your visitors. 
 
+<h5>Reposition Location can be found here.</h5>
+
+<p><a href="https://github.com/Ienxternal/Challenge1"><img src="https://img.shields.io/badge/Location-Repo-blue" alt="Repo"></a></p>
+
+
 <h3>User Story</h3>
 <p>Ultimately, the end product should contain semantics that follows accessibility standards</p>
 
